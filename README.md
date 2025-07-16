@@ -64,6 +64,7 @@ java FileName
 ├── FunctionsInJava               - [x] ✅
 ├── Arrays                        - [ ] ⬜
 ├── ArraysList                    - [ ] ⬜
+├── String                        - [ ] ⬜
 ├── LinkedList                    - [ ] ⬜
 ├── Stack                         - [ ] ⬜
 ├── Queue                         - [ ] ⬜
@@ -89,3 +90,11 @@ Contributions are what make the open-source community such an amazing place to l
 
 I can provide that if needed.
 ![DSA Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+## 💡 LeetCode Wisdom
+
+> **"Code every day, improve every day.  
+> Mastering DSA is not about memorizing solutions; it's about thinking in patterns."**  
+> — _LeetCode Community Wisdom_
+
+---
