@@ -100,11 +100,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-### **Want a downloadable `.md` file?**
-
-I can provide that if needed.
-![DSA Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 ## 💡 LeetCode Wisdom
 
 > **"Code every day, improve every day.  
@@ -112,3 +107,8 @@ I can provide that if needed.
 > — _LeetCode Community Wisdom_
 
 ---
+
+### **Want a downloadable `.md` file?**
+
+I can provide that if needed.
+![DSA Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
