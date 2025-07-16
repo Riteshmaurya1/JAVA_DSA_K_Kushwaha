@@ -65,7 +65,7 @@ java FileName
 ```base
 JAVA_DSA_K_Kushwaha/
 
-<!-- ├── 1️⃣ FunctionsInJava                   - [x] ✅  (1-2 Days)
+├── 1️⃣ FunctionsInJava                   - [x] ✅  (1-2 Days)
 ├── 2️⃣ Arrays                            - [ ] ⬜  (5-7 Days)
 ├── 3️⃣ ArrayList                         - [ ] ⬜  (2-3 Days)
 ├── 4️⃣ String Handling & Manipulation    - [ ] ⬜  (3-4 Days)
@@ -83,30 +83,7 @@ JAVA_DSA_K_Kushwaha/
 ├── 1️⃣6️⃣ Dynamic Programming (DP)        - [ ] ⬜  (1-7 Days)
 ├── 1️⃣7️⃣ Disjoint Set Union (DSU)        - [ ] ⬜  (2-3 Days)
 ├── 1️⃣8️⃣ Trie (Prefix Tree)              - [ ] ⬜  (2-3 Days)
-├── 1️⃣9️⃣ Segment Trees / Fenwick Tree    - [ ] ⬜  (4-5 Days) -->
-
-| **Topic**         | **Concepts**                      | **Duration** | **Status**   | ------------------- | --------------------------------- | ------------ | -----------   |
-| Functions in Java | Methods, Parameters, Recursion    | 1-2 Days     | ✅ Completed |
-| Arrays            | 1D/2D Arrays, Sorting, Searching  | 5-7 Days     | ⬜ Pending   |
-| ArrayList         | Dynamic Arrays, CRUD Operations   | 2-3 Days     | ⬜ Pending   |
-| String Handling   | Substrings, Palindromes, Builder  | 3-4 Days     | ⬜ Pending   |
-| LinkedList        | Single, Double, Circular          | 4-5 Days     | ⬜ Pending   |
-| Stack             | Push/Pop, Infix/Postfix           | 3-4 Days     | ⬜ Pending   |
-| Queue             | FIFO, Deque, Circular Queue       | 3-4 Days     | ⬜ Pending   |
-| Recursion & 
-  Backtracking      | Subsets, Permutations, N-Queens   | 7-10 Days    | ⬜ Pending   |
-| Trees (Binary,BST)| Traversals, Height, Diameter      | 7-9 Days     | ⬜ Pending   |
-| Graphs(BFS,DFS,MST)| Representation, Shortest Path     | 10-12 Days  | ⬜ Pending   |
-| Hashing & HashMap | Frequency, Collision Handling     | 3-4 Days     | ⬜ Pending   |
-| Greedy Algorithms | Activity Selection, Huffman Code  | 3-5 Days     | ⬜ Pending   |
-| Sliding Window 
-  & Two Ptrs        | Max Subarray, Longest Substring   | 2-3 Days     | ⬜ Pending   |
-| Bit Manipulation  | XOR, Masks, Counting Bits         | 2-3 Days     | ⬜ Pending   |
-| Heaps             | Heapify, Kth Largest Element      | 3-4 Days     | ⬜ Pending   |
-| DP                | Memoization, Tabulation, Knapsack | 1-7 Days     | ⬜ Pending   |
-| Disjoint Set Union
- (DSU)              | Union-Find, Path Compression      | 2-3 Days     | ⬜ Pending   |
-| Trie (Prefix Tree)| Insert, Search, Prefix Matching   | 2-3 Days     | ⬜ Pending   |
+├── 1️⃣9️⃣ Segment Trees / Fenwick Tree    - [ ] ⬜  (4-5 Days)
 ```
 
 ## 📚 Contributing Guideline
