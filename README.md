@@ -56,21 +56,35 @@ javac FileName.java
 java FileName
 ```
 
-## ✅ Project Structure Checklist
+## 📂 JAVA_DSA_K_Kushwaha - DSA Mastery Roadmap
 
-📂 JAVA_DSA_K_Kushwaha/
+--- Estimated Learning Duration: 60 to 90 Days for Full Completion (Daily Practice Recommended)
+
+## 🗂️ Project Structure with Duration & Checklist
 
 ```base
-├── FunctionsInJava               - [x] ✅
-├── Arrays                        - [ ] ⬜
-├── ArraysList                    - [ ] ⬜
-├── String                        - [ ] ⬜
-├── LinkedList                    - [ ] ⬜
-├── Stack                         - [ ] ⬜
-├── Queue                         - [ ] ⬜
-├── Recursion                     - [ ] ⬜
-├── Trees                         - [ ] ⬜
-├── Graphs                        - [ ] ⬜
+JAVA_DSA_K_Kushwaha/
+
+├── 1️⃣ FunctionsInJava                   - [x] ✅  (1-2 Days)
+├── 2️⃣ Arrays                            - [ ] ⬜  (5-7 Days)
+├── 3️⃣ ArrayList                         - [ ] ⬜  (2-3 Days)
+├── 4️⃣ String Handling & Manipulation    - [ ] ⬜  (3-4 Days)
+├── 5️⃣ LinkedList                        - [ ] ⬜  (4-5 Days)
+├── 6️⃣ Stack                             - [ ] ⬜  (3-4 Days)
+├── 7️⃣ Queue                             - [ ] ⬜  (3-4 Days)
+├── 8️⃣ Recursion & Backtracking          - [ ] ⬜  (7-10 Days)
+├── 9️⃣ Trees (Binary, BST)               - [ ] ⬜  (7-9 Days)
+├── 🔟 Graphs (BFS, DFS, MST, Dijkstra)  - [ ] ⬜  (10-12 Days)
+├── 1️⃣1️⃣ Hashing & HashMap Problems      - [ ] ⬜  (3-4 Days)
+├── 1️⃣2️⃣ Greedy Algorithms               - [ ] ⬜  (3-5 Days)
+├── 1️⃣3️⃣ Sliding Window & Two Pointers   - [ ] ⬜  (2-3 Days)
+├── 1️⃣4️⃣ Bit Manipulation Techniques     - [ ] ⬜  (2-3 Days)
+├── 1️⃣5️⃣ Heaps / Priority Queue          - [ ] ⬜  (3-4 Days)
+├── 1️⃣6️⃣ Dynamic Programming (DP)        - [ ] ⬜  (1-7 Days)
+├── 1️⃣7️⃣ Disjoint Set Union (DSU)        - [ ] ⬜  (2-3 Days)
+├── 1️⃣8️⃣ Trie (Prefix Tree)              - [ ] ⬜  (2-3 Days)
+├── 1️⃣9️⃣ Segment Trees / Fenwick Tree    - [ ] ⬜  (4-5 Days)
+
 ```
 
 ## 📚 Contributing Guideline
