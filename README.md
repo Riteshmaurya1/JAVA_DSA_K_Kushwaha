@@ -58,26 +58,33 @@ java FileName
 
 ## ✅ Project Structure Checklist
 
+📂 JAVA_DSA_K_Kushwaha/
+
 ```base
-JAVA_DSA_K_Kushwaha/
-├── Arrays/
-│   ├── BasicArrayPrograms.java   - [x] ✅
-│   └── SortingAlgorithms.java    - [x] ✅
-├── LinkedList/
-│   └── LinkedListImplementation.java - [ ] ⬜
-├── Recursion/
-│   └── RecursionExamples.java    - [x] ✅
-├── StackQueue/
-│   └── StackUsingArray.java      - [ ] ⬜
-├── Trees/
-│   └── BinaryTreeTraversal.java  - [x] ✅
-└── README.md                     - [x] ✅
+├── FunctionsInJava               - [x] ✅
+├── Arrays                        - [ ] ⬜
+├── ArraysList                    - [ ] ⬜
+├── LinkedList                    - [ ] ⬜
+├── Stack                         - [ ] ⬜
+├── Queue                         - [ ] ⬜
+├── Recursion                     - [ ] ⬜
+├── Trees                         - [ ] ⬜
+├── Graphs                        - [ ] ⬜
 ```
 
 ## 📚 Contributing Guideline
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create . Any contributions you make are **greatly appreciated**.
 
-```
+---
 
-```
+### **Notes:**
+
+- GitHub **auto-renders `- [x]` as ✅**
+- GitHub **auto-renders `- [ ]` as ⬜**
+
+---
+
+### **Want a downloadable `.md` file?**
+
+I can provide that if needed.
