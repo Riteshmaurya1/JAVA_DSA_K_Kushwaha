@@ -21,16 +21,16 @@ This repository contains **Java-based Data Structures and Algorithms (DSA)** sol
 
 ## 🚀 Topics Covered
 
-| 📂 **Section** | 📋 **Content** |
-|----------------|----------------|
-| 🚀 Basics | Input/Output, Loops, Functions |
-| 📊 Arrays | 1D, 2D, Searching, Sorting |
-| 🧵 Recursion | Basic to Advanced Problems |
-| 🏗️ Stack & Queue | Implementation & Problems |
-| 🌲 Trees | Binary Trees, BST, Traversals |
-| 🔗 Linked List | Single, Double, Circular |
-| 🗺️ Graphs | BFS, DFS, Topological Sort |
-| 📈 Dynamic Programming | Memoization, Tabulation |
+| 📂 **Section**         | 📋 **Content**                 |
+| ---------------------- | ------------------------------ |
+| 🚀 Basics              | Input/Output, Loops, Functions |
+| 📊 Arrays              | 1D, 2D, Searching, Sorting     |
+| 🧵 Recursion           | Basic to Advanced Problems     |
+| 🏗️ Stack & Queue       | Implementation & Problems      |
+| 🌲 Trees               | Binary Trees, BST, Traversals  |
+| 🔗 Linked List         | Single, Double, Circular       |
+| 🗺️ Graphs              | BFS, DFS, Topological Sort     |
+| 📈 Dynamic Programming | Memoization, Tabulation        |
 
 ---
 
@@ -54,10 +54,10 @@ cd JAVA_DSA_K_Kushwaha
 # Compile and run Java files
 javac FileName.java
 java FileName
+```
 
+## ✅ Project Structure Checklist
 
-# Navigate to the project folder
-cd ✅ Project Structure Checklist
 ```base
 JAVA_DSA_K_Kushwaha/
 ├── Arrays/
@@ -72,6 +72,12 @@ JAVA_DSA_K_Kushwaha/
 ├── Trees/
 │   └── BinaryTreeTraversal.java  - [x] ✅
 └── README.md                     - [x] ✅
----
+```
+
 ## 📚 Contributing Guideline
+
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create . Any contributions you make are **greatly appreciated**.
+
+```
+
+```
