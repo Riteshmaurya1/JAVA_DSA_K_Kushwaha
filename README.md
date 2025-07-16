@@ -88,3 +88,4 @@ Contributions are what make the open-source community such an amazing place to l
 ### **Want a downloadable `.md` file?**
 
 I can provide that if needed.
+![DSA Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
