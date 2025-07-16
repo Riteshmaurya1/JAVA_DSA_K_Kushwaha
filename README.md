@@ -54,3 +54,24 @@ cd JAVA_DSA_K_Kushwaha
 # Compile and run Java files
 javac FileName.java
 java FileName
+
+
+# Navigate to the project folder
+cd ✅ Project Structure Checklist
+```base
+JAVA_DSA_K_Kushwaha/
+├── Arrays/
+│   ├── BasicArrayPrograms.java   - [x] ✅
+│   └── SortingAlgorithms.java    - [x] ✅
+├── LinkedList/
+│   └── LinkedListImplementation.java - [ ] ⬜
+├── Recursion/
+│   └── RecursionExamples.java    - [x] ✅
+├── StackQueue/
+│   └── StackUsingArray.java      - [ ] ⬜
+├── Trees/
+│   └── BinaryTreeTraversal.java  - [x] ✅
+└── README.md                     - [x] ✅
+---
+## 📚 Contributing Guideline
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create . Any contributions you make are **greatly appreciated**.
